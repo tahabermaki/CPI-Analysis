@@ -31,5 +31,3 @@ Les instructions d'installation restent inchangées. Assurez-vous d'avoir les de
 - Plotly
 - Scikit-learn
 
-## Contact
-Pour toute question ou suggestion, veuillez me contacter via [Votre Email ou Lien de Profil GitHub].
